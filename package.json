@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-20201020",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tadjik1/nodejs-20201020.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tadjik1/nodejs-20201020/issues"
+  },
+  "homepage": "https://github.com/tadjik1/nodejs-20201020#readme",
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  }
+}
