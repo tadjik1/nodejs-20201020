@@ -1,3 +1,3 @@
-module.exports = function main(a, b) {
-  return a + b;
-}
+const app = require('./app');
+
+app.listen(process.env.PORT || 3000);

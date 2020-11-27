@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/tadjik1/nodejs-20201020#readme",
   "devDependencies": {
+    "axios": "^0.21.0",
     "mocha": "^8.2.1"
+  },
+  "dependencies": {
+    "koa": "^2.13.0"
   }
 }
